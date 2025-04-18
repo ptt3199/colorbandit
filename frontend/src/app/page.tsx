@@ -12,7 +12,7 @@ export default function Home() {
           </p>
           <div className="flex gap-6 justify-center">
             <Link
-              href="/upload"
+              href="/transfer"
               className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors"
             >
               Bắt đầu ngay
